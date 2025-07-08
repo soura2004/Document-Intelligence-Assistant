@@ -80,3 +80,12 @@ Performance Tracking: Comprehensive scoring and feedback system
 Scalable Architecture: Clean separation of concerns, RESTful APIs
 
 The system is production-ready with proper error handling, input validation, and a professional user interface. It can handle complex documents and provide meaningful insights while maintaining complete traceability to source content.
+
+![Screenshot 2025-07-08 142626](https://github.com/user-attachments/assets/a2ed7397-c9bc-4787-9eaa-f1ee3c813b50)
+
+![Screenshot 2025-07-08 142842](https://github.com/user-attachments/assets/b03d5ced-07f3-45ed-b5e8-c48f64f49fc2)
+
+![Screenshot 2025-07-08 143013](https://github.com/user-attachments/assets/7fad199d-a281-49ef-bc26-033edb45f82d)
+
+
+
