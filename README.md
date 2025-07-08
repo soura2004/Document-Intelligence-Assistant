@@ -67,7 +67,7 @@ Save the Streamlit frontend as streamlit_app.py
 python app.py
 
 ### Terminal 2 (Frontend)  
-streamlit run streamlit_app.py
+streamlit run frontend.py
 
 Access: Open http://localhost:8501 in your browser
 
